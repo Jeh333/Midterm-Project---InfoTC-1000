@@ -15,4 +15,4 @@
 I am a student at Mizzou currently. I was born in California and moved to Missouri at a very young age. I have spent most of my life here. Most of the time has been spent in one small area called Beaufort, Missouri. I went to elementary school there 
 
 
-<img src="sammie_and_me.jpeg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="sammie_and_me.jpeg" alt="MarineGEO circle logo" style="height: 500px; width:500px;"/>

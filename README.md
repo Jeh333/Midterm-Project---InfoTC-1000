@@ -17,3 +17,7 @@ I am a student at _Mizzou_ currently. I recently moved to Columbia in January an
 
 <img src="sammie_and_me.jpeg" alt="MarineGEO circle logo" style="height: 500px; width:400px;"/>
 Sammie and me 5 years ago!
+
+<nav class="sitenavigation">
+    <p><a href="hobbies.md">Hobbies</a></p>
+</nav>

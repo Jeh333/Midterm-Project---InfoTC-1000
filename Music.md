@@ -12,9 +12,14 @@ Music has always been something that I have found both comforting to listen to a
 
 
 
-  <nav class="sitenavigation">
-    <p><a href="README.md">Home</a></p>
-  </nav>
+### Site Navigation
+<nav class="sitenavigation">
+  <p><a href="README.md">Home</a></p>
+  <p><a href="Gaming.md">Gaming</a></p>
+  <p><a href="Snowboarding.md">Snowboarding</a></p>
+  <p><a href="codeblock.md">Python Quadratic Calculator</a></p>
+</nav>
+
 
 
 

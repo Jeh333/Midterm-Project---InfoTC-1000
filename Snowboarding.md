@@ -7,3 +7,12 @@ I recently got into snowboarding. There is nothing like getting on the slopes of
  <img src="Snowboard.jpg" alt="snowboarding" style="height: 500px; width:400px;"/>
 
 My beautiful ***unused*** snowboard!
+
+
+### Site Navigation
+<nav class="sitenavigation">
+  <p><a href="README.md">Home</a></p>
+  <p><a href="Music.md">Music</a></p>
+  <p><a href="Gaming.md">Gaming</a></p>
+  <p><a href="codeblock.md">Python Quadratic Calculator</a></p>
+</nav>

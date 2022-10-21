@@ -24,3 +24,12 @@ if disc >= 0:
 else:
     print("The equation has no solutions")
 ```
+
+
+### Site Navigation
+<nav class="sitenavigation">
+  <p><a href="README.md">Home</a></p>
+  <p><a href="Gaming.md">Gaming</a></p>
+  <p><a href="Music.md">Music</a></p>
+  <p><a href="Snowboarding.md">Snowboarding</a></p>
+</nav>

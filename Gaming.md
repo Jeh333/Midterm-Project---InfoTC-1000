@@ -21,7 +21,7 @@ Gaming has always been my passion. I have gamed since I was little and have alwa
 ### Site Navigation
 <nav class="sitenavigation">
   <p><a href="README.md">Home</a></p>
-  <p><a href="Music.md">Gaming</a></p>
+  <p><a href="Music.md">Music</a></p>
   <p><a href="Snowboarding.md">Snowboarding</a></p>
   <p><a href="codeblock.md">Python Quadratic Calculator</a></p>
 </nav>

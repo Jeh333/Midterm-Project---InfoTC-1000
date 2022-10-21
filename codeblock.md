@@ -1,4 +1,4 @@
-## Code Block: 
+## *Code Block*
 
 This is my code block that I use for Calculus and Algebra equations. Great for when factoring is not an option. 
 

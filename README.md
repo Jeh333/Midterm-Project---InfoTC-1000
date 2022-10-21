@@ -16,6 +16,7 @@ I am a student at _Mizzou_ currently. I recently moved to Columbia in January an
 
 
 <img src="sammie_and_me.jpeg" alt="Me and my dog" style="height: 500px; width:400px;"/>
+
 Sammie and me 5 years ago!
 
 <nav class="sitenavigation">
